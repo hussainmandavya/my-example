@@ -1,0 +1,24 @@
+To get from git:
+git clone address folderName
+
+To stage:
+git add fileName
+
+To commit:
+git commit -m "message"
+
+To push:
+git push origin master
+
+To see logs:
+git log
+
+To change versions:
+git checkout hash
+git checkout master
+
+To see the status of new files:
+git status
+
+To see different versions of files:
+git diff fileName

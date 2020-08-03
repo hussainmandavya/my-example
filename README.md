@@ -1,2 +1,2 @@
 # Example Repository
-Learning git.
+Learning git and saving useful commands.
